@@ -78,3 +78,5 @@ phenoData(ccl4) = adfgood
 validObject(ccl4)                                      
 ccl4AM = ccl4
 assayData(ccl4AM) = assayDataNew(A=(r+g)/2, M=r-g)
+
+
