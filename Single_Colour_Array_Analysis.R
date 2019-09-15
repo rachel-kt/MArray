@@ -1,7 +1,7 @@
 #Set the working directory
 source("http://bioconductor.org/biocLite.R")
 
-setwd("/home/rachel/project_jnu/MicroArray_Tutorial/")
+setwd("enter path")
 library(simpleaffy)
 library(help = "simpleaffy")
 
